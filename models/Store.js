@@ -50,3 +50,5 @@ storeSchema.pre('save', function(next){
 });
 
 module.exports = mongoose.model('Store', storeSchema);
+
+//test test test
